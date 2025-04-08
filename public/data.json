@@ -1,0 +1,2091 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "namess": "Electronics",
+            "subcategories": [
+                {
+                    "id": "hjhr34",
+                    "name": "Smartphones",
+                    "labelName":"Mobile",
+                    "brands": [
+                        {
+                            "id": "samsung",
+                            "name": "Samsung",
+                            "image":"https://www.jiomart.com/images/product/original/493664926/samsung-galaxy-a23-5g-128-gb-6-gb-ram-awesome-blue-mobile-phone-digital-o493664926-p597849824-0-202301250951.jpeg?im=Resize=(420,420)",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy s23",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": "95,000",
+                                    "description": "Latest Samsung smartphone with advanced features.",
+                                    "image":"https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/y/8/i/-original-imah4zp7fgtezhsz.jpeg?q=90&crop=false",
+                                    "rating":"3.8",
+                                    "discount_amount":"97,000",
+                                    "off":"10",
+                                    "extraoff":"2,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                },
+                                {
+                                    "id": "samsung galaxy a54",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": "17,999",
+                                    "description": "Mid-range Samsung smartphone with excellent battery life.",
+                                    "image":"https://m.media-amazon.com/images/I/61JGDZN3KLL.jpg",
+                                    "rating":"3.5",
+                                    "discount_amount":"18,999",
+                                    "off":"10",
+                                    "extraoff":"1,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 1002,
+                            "name": "Realme",
+                            "image":"https://image01.realme.net/general/20241209/1733738186612bc43f67d968b4b26962cb1e5c45e1803.png?width=1440&height=1440&size=473153",
+                            "products": [
+                                {
+                                    "id": "realme-11-pro",
+                                    "name": "Realme 11 Pro",
+                                    "price": "17999",
+                                    "description": "Latest Realme smartphone with advanced features.",
+                                    "image":"https://image01.realme.net/general/20230608/1686196034266e84391de43944a599cdec535212ef4f6.png?width=1440&height=1440&size=710277",
+                                    "rating":"3.8",
+                                    "discount_amount":"18,999",
+                                    "off":"4",
+                                    "extraoff":"1,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                },
+                                {
+                                    "id": "realme-12x",
+                                    "name": "Realme 12X",
+                                    "price": "15,999",
+                                    "description": "Mid-range Realme smartphone with excellent battery life.",
+                                    "image":"https://m.media-amazon.com/images/I/711kX064JHL._AC_UF1000,1000_QL80_.jpg",
+                                    "rating":"3.8",
+                                    "discount_amount":"18,999",
+                                    "off":"8",
+                                    "extraoff":"3,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "oppo",
+                            "name": "Oppo",
+                            "image":"https://opsg-img-cdn-gl.heytapimg.com/epb/202406/26/TiM1Gzwu2tfEAyVT.png",
+                            "products": [
+                                {
+                                    "id": "oppo-reno-2",
+                                    "name": "Oppo Reno 2",
+                                    "price": "35,999",
+                                    "description": "Latest Oppo smartphone with advanced features.",
+                                    "image":"https://image.oppo.com/content/dam/oppo/in/mkt/homepage-new-version/navigation/440_440-reno-12-pro.png.thumb.webp",
+                                    "rating":"4.0",
+                                    "discount_amount":"38,999",
+                                    "off":"5",
+                                    "extraoff":"2,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                },
+                                {
+                                    "id": "oppo-a3x",
+                                    "name": "Oppo A3X",
+                                    "price": "15,999",
+                                    "description": "Mid-range Oppo smartphone with excellent battery life.",
+                                    "image":"https://www.93mobiles.com/wp-content/uploads/2024/08/81OzR8IBFL._SL1500_-1.jpg",
+                                    "rating":"3.7",
+                                    "discount_amount":"18,999",
+                                    "off":"10",
+                                    "extraoff":"2,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "vivo",
+                            "name": "Vivo",
+                            "image":"https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1739850044979/f893bbacc6ad4d8d152e542280a43e3a.png",
+                            "products": [
+                                {
+                                    "id": "vivo-y22",
+                                    "name": "Vivo y22",
+                                    "price": "16,999",
+                                    "description": "Latest Samsung smartphone with advanced features.",
+                                    "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/322696313/YT/LA/KI/188924882/vivo-mobile-phone.jpg",
+                                    "rating":"3.8",
+                                    "discount_amount":"18,999",
+                                    "off":"8",
+                                    "extraoff":"2,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                },
+                                {
+                                    "id": "vivo-x-100",
+                                    "name": "Vivo X 100",
+                                    "price": "14,999",
+                                    "description": "Mid-range Samsung smartphone with excellent battery life.",
+                                    "image":"https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1702983371711/7955f5b8de2146fe3c93e394880c055b.png",
+                                    "rating":"3.9",
+                                    "discount_amount":"15,999",
+                                    "off":"10",
+                                    "extraoff":"1,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "infinx",
+                            "name": "Infinix",
+                            "image":"https://cdn.beebom.com/mobile/infinix-hot-50-pro-front-and-back.png",
+                            "products": [
+                                {
+                                    "id": "infinix",
+                                    "name": "Infinix Note 40",
+                                    "price": "17,999",
+                                    "description": "Latest Infinix smartphone with advanced features.",
+                                    "rating":"3.8",
+                                    "discount_amount":"18,999",
+                                    "off":"8",
+                                    "image":"https://in.pro.infinixmobility.com/media/catalog/product/x/6/x6851b_note40pro_5g_base1_3.png",
+                                    "extraoff":"1,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                },
+                                {
+                                    "id": "infinx hot 40i",
+                                    "name": "Infinix Hot 40i",
+                                    "price": "12,999",
+                                    "description": "Mid-range Infinix smartphone with excellent battery life.",
+                                    "rating":"3.9",
+                                    "discount_amount":"14,999",
+                                    "off":"10",
+                                    "image":"https://5.imimg.com/data5/SELLER/Default/2024/7/435235775/SQ/LY/RU/153717291/infinix-hot-40i-palm-blue-8-gb-ram-mobile-phone.jpg",
+                                    "extraoff":"2,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "moto",
+                            "name": "Moto",
+                            "image":"https://vasanthandco.in/UploadedFiles/productimages/20240715053750-%20%20(1).jpg",
+                            "products": [
+                                {
+                                    "id": "moto-edgo-50",
+                                    "name": "Moto Edge 50 Fusion",
+                                    "price": "22,000",
+                                    "description": "Latest Samsung smartphone with advanced features.",
+                                    "rating":"3.9",
+                                    "discount_amount":"24,999",
+                                    "off":"12",
+                                    "image":"https://motorolain.vtexassets.com/arquivos/ids/158971/motorola-edge-50-fusion-pdp-ecom-render-1-pinkpeacock-km0aw9j0.png?v=638506037798100000",
+                                    "extraoff":"2,999",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                },
+                                {
+                                    "id": "moto-g-45",
+                                    "name": "Motorala G 45 ",
+                                    "description": "Mid-range Samsung smartphone with excellent battery life.",
+                                    "image":"https://m.media-amazon.com/images/I/81dl4dQY3BL.jpg",
+                                    "price": "18,999",
+                                    "rating":"3.9",
+                                    "discount_amount":"24,999",
+                                    "off":"17",
+                                    "extraoff":"6,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                }
+                            ]
+                        },
+                        {
+                            "id": 1007,
+                            "name": "Redmi",
+                            "image":"https://www.93mobiles.com/wp-content/uploads/2024/07/81weRj535kL._SL1500_.jpg",
+                            "products": [
+                                {
+                                    "id": "redmi note 10",
+                                    "name": "Redmi Note 10",
+                                    "description": "Latest Redmi smartphone with advanced features.",
+                                    "image":"https://www.93mobiles.com/wp-content/uploads/2024/07/81weRj535kL._SL1500_.jpg",
+                                    "price": "15,999",
+                                    "rating":"3.9",
+                                    "discount_amount":"17,999",
+                                    "off":"15",
+                                    "extraoff":"2,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                    
+                                },
+                                {
+                                    "id": "redmi 8",
+                                    "name": "Redmi 8",
+                                    "image":"https://5.imimg.com/data5/GY/YC/GP/SELLER-94052123/xiaomi-redmi-8-64gb.jpg",
+                                    "description": "Mid-range Redmi smartphone with excellent battery life.",
+                                    "price": "14,999",
+                                    "rating":"3.8",
+                                    "discount_amount":"11,999",
+                                    "off":"25",
+                                    "extraoff":"3,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                }
+                            ]
+                        }
+                    ],
+                    "iphonebrands":[
+                        {
+                            "id": "iphone",
+                            "name": "Iphone",
+                            "image":"https://www.93mobiles.com/wp-content/uploads/2024/07/81weRj535kL._SL1500_.jpg",
+                            "products": [
+                                {
+                                    "id": "iphone-11",
+                                    "name": "Iphone 11",
+                                    "price": "45,000",
+                                    "description": "Latest Iphone smartphone with advanced features.",
+                                    "image":"https://refurbished.techyuga.com/wp-content/uploads/2021/01/Apple-iPhone-11-2.jpg"
+                                },
+                                {
+                                    "id": "iphone-12-pro",
+                                    "name": "Iphone 12 Pro",
+                                    "image":"https://www.poojaratele.com/media/catalog/product/cache/28b568fbf82d79c53c9eab7361be58d0/a/p/apple-iphone-12-pro-gold-thum1.jpg",
+                                    "price": "90,499",
+                                    "description": "Mid-range Iphone smartphone with excellent battery life."
+                                },
+                                {
+                                    "id": "iphone-13",
+                                    "name": "Iphone 13",
+                                    "image":"https://www.poojaratele.com/media/catalog/product/cache/28b568fbf82d79c53c9eab7361be58d0/a/p/apple-iphone-12-pro-gold-thum1.jpg",
+                                    "price": "60,499",
+                                    "description": "Mid-range Iphone smartphone with excellent battery life."
+                                },
+                                {
+                                    "id": "iphone-13-pro",
+                                    "name": "Iphone 13 Pro",
+                                    "image":"https://www.poojaratele.com/media/catalog/product/cache/28b568fbf82d79c53c9eab7361be58d0/a/p/apple-iphone-12-pro-gold-thum1.jpg",
+                                    "price": "90,499",
+                                    "description": "Mid-range Iphone smartphone with excellent battery life."
+                                },
+                                {
+                                    "id": "iphone-14",
+                                    "name": "Iphone 14",
+                                    "image":"https://www.poojaratele.com/media/catalog/product/cache/28b568fbf82d79c53c9eab7361be58d0/a/p/apple-iphone-12-pro-gold-thum1.jpg",
+                                    "price": "70,499",
+                                    "description": "Mid-range Iphone smartphone with excellent battery life."
+                                },
+                                {
+                                    "id": "iphone-14-pro",
+                                    "name": "Iphone 14 Pro",
+                                    "image":"https://www.poojaratele.com/media/catalog/product/cache/28b568fbf82d79c53c9eab7361be58d0/a/p/apple-iphone-12-pro-gold-thum1.jpg",
+                                    "price": "100,499",
+                                    "description": "Mid-range Iphone smartphone with excellent battery life."
+                                },
+                                {
+                                    "id": "iphone-15",
+                                    "name": "Iphone 15",
+                                    "image":"https://www.poojaratele.com/media/catalog/product/cache/28b568fbf82d79c53c9eab7361be58d0/a/p/apple-iphone-12-pro-gold-thum1.jpg",
+                                    "price": "70,499",
+                                    "description": "Mid-range Iphone smartphone with excellent battery life."
+                                },
+                                {
+                                    "id": "iphone-15-pro",
+                                    "name": "Iphone 15 Pro",
+                                    "image":"https://www.poojaratele.com/media/catalog/product/cache/28b568fbf82d79c53c9eab7361be58d0/a/p/apple-iphone-12-pro-gold-thum1.jpg",
+                                    "price": "120,499",
+                                    "description": "Mid-range Iphone smartphone with excellent battery life."
+                                },
+                                {
+                                    "id": "iphone-16",
+                                    "name": "Iphone 16 Pro",
+                                    "image":"https://www.poojaratele.com/media/catalog/product/cache/28b568fbf82d79c53c9eab7361be58d0/a/p/apple-iphone-12-pro-gold-thum1.jpg",
+                                    "price": "140,499",
+                                    "description": "Mid-range Iphone smartphone with excellent battery life."
+                                }
+                            ]
+                        } 
+                    ],
+                    "featurephones":[
+                        {
+                            "id": "feature-phones",
+                            "name": "Feature Phone",
+                            "image":"https://www.93mobiles.com/wp-content/uploads/2024/07/81weRj535kL._SL1500_.jpg",
+                            "products": [
+                                {
+                                    "id": "samsung",
+                                    "name": "Samsung",
+                                    "price": "145,000",
+                                    "description": "Latest Iphone smartphone with advanced features.",
+                                    "image":"https://refurbished.techyuga.com/wp-content/uploads/2021/01/Apple-iPhone-11-2.jpg"
+                                },
+                                {
+                                    "id": "iphone-12-pro",
+                                    "name": "Iphone 12 Pro",
+                                    "image":"https://www.poojaratele.com/media/catalog/product/cache/28b568fbf82d79c53c9eab7361be58d0/a/p/apple-iphone-12-pro-gold-thum1.jpg",
+                                    "price": "90,499",
+                                    "description": "Mid-range Iphone smartphone with excellent battery life."
+                                },
+                                {
+                                    "id": "iphone-13",
+                                    "name": "Iphone 13",
+                                    "image":"https://www.poojaratele.com/media/catalog/product/cache/28b568fbf82d79c53c9eab7361be58d0/a/p/apple-iphone-12-pro-gold-thum1.jpg",
+                                    "price": "60,499",
+                                    "description": "Mid-range Iphone smartphone with excellent battery life."
+                                },
+                                {
+                                    "id": "iphone-13-pro",
+                                    "name": "Iphone 13 Pro",
+                                    "image":"https://www.poojaratele.com/media/catalog/product/cache/28b568fbf82d79c53c9eab7361be58d0/a/p/apple-iphone-12-pro-gold-thum1.jpg",
+                                    "price": "90,499",
+                                    "description": "Mid-range Iphone smartphone with excellent battery life."
+                                }
+                            ]
+                        } 
+                    ]
+                },
+                {
+                    "id": "accessories",
+                    "name": "Accessories",
+                    "labelName":"Accessories",
+                    "brands": [
+                        {
+                            "id": "charger",
+                            "name": "Charger",
+                            "image":"https://chargingcable.in/cdn/shop/products/samsung_a10_a20_a40_a80_a70_charger_online_6910ecd7-a821-420f-89b8-b5b173984529.jpg?v=1607067591",
+                            "products": [
+                                {
+                                    "id": "apple-charger",
+                                    "name": "Apple",
+                                    "price": 1799.99,
+                                    "description": "Latest Samsung smartphone with advanced features.",
+                                    "rating":"3.8",
+                                    "discount_amount":"1,899",
+                                    "off":"10",
+                                    "image":"https://m.media-amazon.com/images/I/51mZo23XLiL._AC_UF1000,1000_QL80_.jpg"
+                                },
+                                {
+                                    "id": "oneplus-charger",
+                                    "name": "One Plus",
+                                    "price": 1499.99,
+                                    "description": "Mid-range OnePlus smartphone with excellent battery life.",
+                                    "rating":"3.8",
+                                    "discount_amount":"1,799",
+                                    "off":"14",
+                                    "image":"https://m.media-amazon.com/images/I/41fn0vodJ2L.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "cable & wire",
+                            "name": "Cable & Wire",
+                            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOZApLW3ojpasL0VK_SYJjEMV_3_EIl0krAA&s",
+                            "products": [
+                                {
+                                    "id": "apple-cable",
+                                    "name": "Apple",
+                                    "price": 1799.99,
+                                    "description": "Latest Apple cable with advanced features.",
+                                    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRUidNHh1Faz_hGmfAQZTuiFFbYjuxTlxPAg&s",
+                                    "rating":"3.8",
+                                    "discount_amount":"1,999",
+                                    "off":"10"
+                                },
+                                {
+                                    "id": "oneplus-cable",
+                                    "name": "One Plus",
+                                    "price": 1499.99,
+                                    "description": "Mid-range OnePlus cable with excellent battery life.",
+                                    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKFnTxnPoUTLHBPDwWcA6oq3csPZazbsYNYa2-Rn1I8Wi8NDrvzmdZ_h8bTB8rGj9a1E&usqp=CAU",
+                                    "rating":"3.8",
+                                    "discount_amount":"1,699",
+                                    "off":"10"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "wire-earphone",
+                            "name": "Earphone",
+                            "image":"https://ptron.in/cdn/shop/products/1_d570afdc-8cbc-47a1-9358-a204aa3110eb.jpg?v=1601551108",
+                            "products": [
+                                {
+                                    "id": "apple-wire-earphone",
+                                    "name": "Apple",
+                                    "price": 1799.99,
+                                    "description": "Latest Apple earphone with advanced features.",
+                                    "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MMTN2?wid=4000&hei=4000&fmt=jpeg&qlt=95&.v=1473703488187",
+                                    "rating":"3.8",
+                                    "discount_amount":"18,99",
+                                    "off":"10"
+                                },
+                                {
+                                    "id": "oneplus-wire-earphone",
+                                    "name": "One Plus",
+                                    "price": 1499.99,
+                                    "description": "Mid-range OnePlus cable with excellent battery life.",
+                                    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAwZ1WHmsqc6osDfnhZeSfWXH2zGqTP3YE8Q&s",
+                                    "rating":"4.2",
+                                    "discount_amount":"16,99",
+                                    "off":"18"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "airpods & earbuds",
+                            "name": "Airpods & Earbuds",
+                            "image":"https://www.electrocity.ie/acd-cgi/img/v1/wp-content/uploads/2024/09/apple-airpods-4-true-wireless-headphones-electrocity.ie-4.jpg?quality=82&width=1520&height=1080",
+                            "products": [
+                                {
+                                    "id": "apple buds",
+                                    "name": "Apple",
+                                    "price": 1899.99,
+                                    "description": "Apple AirPods Pro (2nd Generation) with MagSafe Charging Case (USB-C)",
+                                    "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-pro-2-hero-select-202409_FMT_WHH?wid=750&hei=556&fmt=jpeg&qlt=90&.v=1724041668836",
+                                    "rating":"3.8",
+                                    "discount_amount":"1,999",
+                                    "off":"10"
+                                },
+                                {
+                                    "id": "oneplus buds",
+                                    "name": "One Plus",
+                                    "price": 1499.99,
+                                    "description": "OnePlus Nord Buds 3 Pro - OnePlus (India)",
+                                    "image":"https://image01-in.oneplus.net/media/202407/10/ee9d6e311be1a3a33c8f0c33fe16c8fd.png",
+                                    "rating":"3.8",
+                                    "discount_amount":"1,699",
+                                    "off":"20"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "mobile-cover",
+                            "name": "Cover",
+                            "image":"https://casekaro.com/cdn/shop/files/ZCK-0007-SOFTSILI-OPND25G_7b19d5fc-1ce1-4297-97d3-accd7e85b5df.jpg?v=1735017795&width=1500",
+                            "products": [
+                                {
+                                    "id": "fablue_back_cover_for_realMe_14x 5G",
+                                    "name": "Fablue Back Cover for RealMe 14x 5G",
+                                    "price": 395,
+                                    "description": "Apple AirPods Pro (2nd Generation) with MagSafe Charging Case (USB-C)",
+                                    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/cases-covers/back-cover/7/t/w/fbl-lkw-blk-rlm14x5g-fablue-original-imah7vwbkdrhpfug.jpeg?q=70",
+                                    "rating":"4.1",
+                                    "discount_amount":"1,999",
+                                    "off":"67",
+                                    "extraoff":"6,000",
+                                    "colour":"Black, Rugged Armor",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C",
+                                    "total_stock":"Hurry, Only 5 left!"
+                                },
+                                {
+                                    "id": "colorcase-back-cover-for-samsung-galaxy-s21-ultra",
+                                    "name": "Colorcase Back Cover for Samsung Galaxy S21 Ultra",
+                                    "price": 179,
+                                    "description": "OnePlus Nord Buds 3 Pro - OnePlus (India)",
+                                    "image":"https://rukminim2.flixcart.com/image/612/612/l4n2oi80/cases-covers/back-cover/4/0/x/m-11313-colorcase-original-imagfhuevuezybc9.jpeg?q=70",
+                                    "rating":"4",
+                                    "discount_amount":"999",
+                                    "off":"82",
+                                    "extraoff":"6,000",
+                                    "colour":"Black, Rugged Armor",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C",
+                                    "total_stock":"Hurry, Only 5 left!"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 103,
+                    "name": "Home & Appliance",
+                    "labelName":"Home & Appliance",
+                    "brands": [
+                        {
+                            "id": 1001,
+                            "name": "Samsung",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "electronic",
+            "name": "Electronics",
+            "subcategories": [
+                {
+                    "id": "audio",
+                    "name": "Audio",
+                    "labelName":"Audio",
+                    "brands": [
+                        {
+                            "id": "bluetooth-headphones",
+                            "name": "Bluetooth Headphones",
+                            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6SWcvLyK_jacapMQW32dnjH4zwOzZmG_4LA&s",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy s23",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": "95,000",
+                                    "description": "Latest Samsung smartphone with advanced features.",
+                                    "image":"https://rukminim2.flixcart.com/image/850/1000/xif0q/mobile/y/8/i/-original-imah4zp7fgtezhsz.jpeg?q=90&crop=false",
+                                    "rating":"3.8",
+                                    "discount_amount":"97,000",
+                                    "off":"10",
+                                    "extraoff":"2,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                },
+                                {
+                                    "id": "samsung galaxy a54",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": "17,999",
+                                    "description": "Mid-range Samsung smartphone with excellent battery life.",
+                                    "image":"https://m.media-amazon.com/images/I/61JGDZN3KLL.jpg",
+                                    "rating":"3.5",
+                                    "discount_amount":"18,999",
+                                    "off":"10",
+                                    "extraoff":"1,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "wired-headphones",
+                            "name": "Wired Headphones",
+                            "image":"https://ptron.in/cdn/shop/products/B0BQC5NT44.MAIN.jpg?v=1678031508",
+                            "products": [
+                                {
+                                    "id": "realme-11-pro",
+                                    "name": "Realme 11 Pro",
+                                    "price": "17999",
+                                    "description": "Latest Realme smartphone with advanced features.",
+                                    "image":"https://image01.realme.net/general/20230608/1686196034266e84391de43944a599cdec535212ef4f6.png?width=1440&height=1440&size=710277",
+                                    "rating":"3.8",
+                                    "discount_amount":"18,999",
+                                    "off":"4",
+                                    "extraoff":"1,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                },
+                                {
+                                    "id": "realme-12x",
+                                    "name": "Realme 12X",
+                                    "price": "15,999",
+                                    "description": "Mid-range Realme smartphone with excellent battery life.",
+                                    "image":"https://m.media-amazon.com/images/I/711kX064JHL._AC_UF1000,1000_QL80_.jpg",
+                                    "rating":"3.8",
+                                    "discount_amount":"18,999",
+                                    "off":"8",
+                                    "extraoff":"3,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "true-wireless-earbuds",
+                            "name": "True Wireless Earbuds",
+                            "image":"https://avstore.in/cdn/shop/files/1.AVStore-Denon-AH-C630-W-Front-View-With-Charging-Case-Black.jpg?v=1708340888",
+                            "products": [
+                                {
+                                    "id": "oppo-reno-2",
+                                    "name": "Oppo Reno 2",
+                                    "price": "35,999",
+                                    "description": "Latest Oppo smartphone with advanced features.",
+                                    "image":"https://image.oppo.com/content/dam/oppo/in/mkt/homepage-new-version/navigation/440_440-reno-12-pro.png.thumb.webp",
+                                    "rating":"4.0",
+                                    "discount_amount":"38,999",
+                                    "off":"5",
+                                    "extraoff":"2,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                },
+                                {
+                                    "id": "oppo-a3x",
+                                    "name": "Oppo A3X",
+                                    "price": "15,999",
+                                    "description": "Mid-range Oppo smartphone with excellent battery life.",
+                                    "image":"https://www.93mobiles.com/wp-content/uploads/2024/08/81OzR8IBFL._SL1500_-1.jpg",
+                                    "rating":"3.7",
+                                    "discount_amount":"18,999",
+                                    "off":"10",
+                                    "extraoff":"2,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "bluetooth-speakers",
+                            "name": "Bluetooth Speakers",
+                            "image":"https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1728033068/Croma%20Assets/Entertainment/Speakers%20and%20Media%20Players/Images/251614_0_ghxuff.png",
+                            "products": [
+                                {
+                                    "id": "vivo-y22",
+                                    "name": "Vivo y22",
+                                    "price": "16,999",
+                                    "description": "Latest Samsung smartphone with advanced features.",
+                                    "image":"https://5.imimg.com/data5/SELLER/Default/2023/7/322696313/YT/LA/KI/188924882/vivo-mobile-phone.jpg",
+                                    "rating":"3.8",
+                                    "discount_amount":"18,999",
+                                    "off":"8",
+                                    "extraoff":"2,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                },
+                                {
+                                    "id": "vivo-x-100",
+                                    "name": "Vivo X 100",
+                                    "price": "14,999",
+                                    "description": "Mid-range Samsung smartphone with excellent battery life.",
+                                    "image":"https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1702983371711/7955f5b8de2146fe3c93e394880c055b.png",
+                                    "rating":"3.9",
+                                    "discount_amount":"15,999",
+                                    "off":"10",
+                                    "extraoff":"1,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "soundbars",
+                            "name": "Soundbars",
+                            "image":"https://m.media-amazon.com/images/I/4161TqF7zZL._SR290,290_.jpg",
+                            "products": [
+                                {
+                                    "id": "infinix",
+                                    "name": "Infinix Note 40",
+                                    "price": "17,999",
+                                    "description": "Latest Infinix smartphone with advanced features.",
+                                    "rating":"3.8",
+                                    "discount_amount":"18,999",
+                                    "off":"8",
+                                    "image":"https://in.pro.infinixmobility.com/media/catalog/product/x/6/x6851b_note40pro_5g_base1_3.png",
+                                    "extraoff":"1,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                },
+                                {
+                                    "id": "infinx hot 40i",
+                                    "name": "Infinix Hot 40i",
+                                    "price": "12,999",
+                                    "description": "Mid-range Infinix smartphone with excellent battery life.",
+                                    "rating":"3.9",
+                                    "discount_amount":"14,999",
+                                    "off":"10",
+                                    "image":"https://5.imimg.com/data5/SELLER/Default/2024/7/435235775/SQ/LY/RU/153717291/infinix-hot-40i-palm-blue-8-gb-ram-mobile-phone.jpg",
+                                    "extraoff":"2,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "hometheater",
+                            "name": "Home Theater",
+                            "image":"https://5.imimg.com/data5/SELLER/Default/2022/6/SS/NN/DQ/42138853/jbl-home-theater-system.jpg",
+                            "products": [
+                                {
+                                    "id": "moto-edgo-50",
+                                    "name": "Moto Edge 50 Fusion",
+                                    "price": "22,000",
+                                    "description": "Latest Samsung smartphone with advanced features.",
+                                    "rating":"3.9",
+                                    "discount_amount":"24,999",
+                                    "off":"12",
+                                    "image":"https://motorolain.vtexassets.com/arquivos/ids/158971/motorola-edge-50-fusion-pdp-ecom-render-1-pinkpeacock-km0aw9j0.png?v=638506037798100000",
+                                    "extraoff":"2,999",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                },
+                                {
+                                    "id": "moto-g-45",
+                                    "name": "Motorala G 45 ",
+                                    "description": "Mid-range Samsung smartphone with excellent battery life.",
+                                    "image":"https://m.media-amazon.com/images/I/81dl4dQY3BL.jpg",
+                                    "price": "18,999",
+                                    "rating":"3.9",
+                                    "discount_amount":"24,999",
+                                    "off":"17",
+                                    "extraoff":"6,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tv-streaming-device",
+                            "name": "Tv Streaming Device",
+                            "image":"https://m.media-amazon.com/images/I/51Q+uvlrh6L._SR290,290_.jpg",
+                            "products": [
+                                {
+                                    "id": "redmi note 10",
+                                    "name": "Redmi Note 10",
+                                    "description": "Latest Redmi smartphone with advanced features.",
+                                    "image":"https://www.93mobiles.com/wp-content/uploads/2024/07/81weRj535kL._SL1500_.jpg",
+                                    "price": "15,999",
+                                    "rating":"3.9",
+                                    "discount_amount":"17,999",
+                                    "off":"15",
+                                    "extraoff":"2,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                    
+                                },
+                                {
+                                    "id": "redmi 8",
+                                    "name": "Redmi 8",
+                                    "image":"https://5.imimg.com/data5/GY/YC/GP/SELLER-94052123/xiaomi-redmi-8-64gb.jpg",
+                                    "description": "Mid-range Redmi smartphone with excellent battery life.",
+                                    "price": "14,999",
+                                    "rating":"3.8",
+                                    "discount_amount":"11,999",
+                                    "off":"25",
+                                    "extraoff":"3,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "remote-control",
+                            "name": "Remote Control",
+                            "image":"https://image.seapx.com/mall/HUAYU898/1/20231221/1703140594915752840.jpg",
+                            "products": [
+                                {
+                                    "id": "redmi note 10",
+                                    "name": "Redmi Note 10",
+                                    "description": "Latest Redmi smartphone with advanced features.",
+                                    "image":"https://www.93mobiles.com/wp-content/uploads/2024/07/81weRj535kL._SL1500_.jpg",
+                                    "price": "15,999",
+                                    "rating":"3.9",
+                                    "discount_amount":"17,999",
+                                    "off":"15",
+                                    "extraoff":"2,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                    
+                                },
+                                {
+                                    "id": "redmi 8",
+                                    "name": "Redmi 8",
+                                    "image":"https://5.imimg.com/data5/GY/YC/GP/SELLER-94052123/xiaomi-redmi-8-64gb.jpg",
+                                    "description": "Mid-range Redmi smartphone with excellent battery life.",
+                                    "price": "14,999",
+                                    "rating":"3.8",
+                                    "discount_amount":"11,999",
+                                    "off":"25",
+                                    "extraoff":"3,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "DTH set top Box",
+                            "name": "DTH Set top box",
+                            "image":"https://tiimg.tistatic.com/fp/1/007/882/environment-friendly-and-hdmi-plastic-white-tata-sky-hd-new-dth-set-top-box--795.jpg",
+                            "products": [
+                                {
+                                    "id": "redmi note 10",
+                                    "name": "Redmi Note 10",
+                                    "description": "Latest Redmi smartphone with advanced features.",
+                                    "image":"https://www.93mobiles.com/wp-content/uploads/2024/07/81weRj535kL._SL1500_.jpg",
+                                    "price": "15,999",
+                                    "rating":"3.9",
+                                    "discount_amount":"17,999",
+                                    "off":"15",
+                                    "extraoff":"2,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                    
+                                },
+                                {
+                                    "id": "redmi 8",
+                                    "name": "Redmi 8",
+                                    "image":"https://5.imimg.com/data5/GY/YC/GP/SELLER-94052123/xiaomi-redmi-8-64gb.jpg",
+                                    "description": "Mid-range Redmi smartphone with excellent battery life.",
+                                    "price": "14,999",
+                                    "rating":"3.8",
+                                    "discount_amount":"11,999",
+                                    "off":"25",
+                                    "extraoff":"3,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "headphone-pouch-case-cover",
+                            "name": "Headphone Pouch and Case Cover",
+                            "image":"https://www.93mobiles.com/wp-content/uploads/2024/07/81weRj535kL._SL1500_.jpg",
+                            "products": [
+                                {
+                                    "id": "redmi note 10",
+                                    "name": "Redmi Note 10",
+                                    "description": "Latest Redmi smartphone with advanced features.",
+                                    "image":"https://www.93mobiles.com/wp-content/uploads/2024/07/81weRj535kL._SL1500_.jpg",
+                                    "price": "15,999",
+                                    "rating":"3.9",
+                                    "discount_amount":"17,999",
+                                    "off":"15",
+                                    "extraoff":"2,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                    
+                                },
+                                {
+                                    "id": "redmi 8",
+                                    "name": "Redmi 8",
+                                    "image":"https://5.imimg.com/data5/GY/YC/GP/SELLER-94052123/xiaomi-redmi-8-64gb.jpg",
+                                    "description": "Mid-range Redmi smartphone with excellent battery life.",
+                                    "price": "14,999",
+                                    "rating":"3.8",
+                                    "discount_amount":"11,999",
+                                    "off":"25",
+                                    "extraoff":"3,000",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "laptop-accessories",
+                    "name": "Laptop Accessories",
+                    "labelName":"Laptop Accessories",
+                    "brands": [
+                        {
+                            "id": "mouse",
+                            "name": "Mouse",
+                            "image":"https://cdn.pixabay.com/photo/2013/07/12/17/41/computer-mouse-152249_1280.png",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "laptop-keyboard",
+                            "name": "Laptop Keyboard",
+                            "image":"https://5.imimg.com/data5/SELLER/Default/2022/2/NC/GZ/BL/18879507/hp-cq61-g61-cq60-g60-laptop-keyboard-500x500.png",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "routers",
+                            "name": "Routers",
+                            "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/router/t/v/x/archer-c50-ac1200-wireless-dual-band-tp-link-original-imahfbdzsas5pqjd.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "data-cards",
+                            "name": "Data Cards",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/datacard/7/e/o/4g-lte-wireless-dongle-with-all-4g-5g-sim-network-support-plug-original-imagya7rxvhssmun.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "ups",
+                            "name": "UPS",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/l33cia80/ups/g/z/s/-original-imagea7mgpshjeq6.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "usb gadgets",
+                            "name": "USB Gadgets",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/usb-gadget/t/p/d/3-0-henture-original-imaha5sdmwzhjexd.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "laptop-battery",
+                            "name": "Laptop Battery",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/laptop-battery/li-ion/g/8/g/bis-certified-rechargeable-j1knd-laptop-battery-for-dell-original-imah9fkfkfaebmn4.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "laptop-adapter",
+                            "name": "Laptop Adapter",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/laptop-adapter/4/x/w/laptop-charger-7-4-mm-dell-original-imah99wq85gyf82m.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "wireless-usb-adapter",
+                            "name": "Wireless USB Adapter",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/usb-adaptor/r/o/z/zeb-usb150wf1-wifi-mini-zeb-usb150wf1-wifi-usb-mini-adapter-original-imah7p7fkyhqjvun.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "processor",
+                            "name": "Processor",
+                            "image":"https://5.imimg.com/data5/CM/LY/SQ/SELLER-12188422/intel-core-i7-processor-500x500.jpg",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "cameras&accessories",
+                    "name": "Cameras & Accessories",
+                    "labelName":"Cameras & Accessories",
+                    "brands": [
+                        {
+                            "id": "dslr&mirorrless",
+                            "name": "DSLR & Mirrorless",
+                            "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/dslr-camera/b/x/1/dmc-g85hagwk-16-dmc-g85hagwk-panasonic-original-imagzknqmjh6sxem.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "apple-charger",
+                                    "name": "Apple",
+                                    "price": 1799.99,
+                                    "description": "Latest Samsung smartphone with advanced features.",
+                                    "rating":"3.8",
+                                    "discount_amount":"1,899",
+                                    "off":"10",
+                                    "image":"https://m.media-amazon.com/images/I/51mZo23XLiL._AC_UF1000,1000_QL80_.jpg"
+                                },
+                                {
+                                    "id": "oneplus-charger",
+                                    "name": "One Plus",
+                                    "price": 1499.99,
+                                    "description": "Mid-range OnePlus smartphone with excellent battery life.",
+                                    "rating":"3.8",
+                                    "discount_amount":"1,799",
+                                    "off":"14",
+                                    "image":"https://m.media-amazon.com/images/I/41fn0vodJ2L.jpg"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "sports&action",
+                            "name": "Sports & Action",
+                            "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/sports-action-camera/a/t/4/-original-imah29rtumwgkdhs.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "apple-cable",
+                                    "name": "Apple",
+                                    "price": 1799.99,
+                                    "description": "Latest Apple cable with advanced features.",
+                                    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRUidNHh1Faz_hGmfAQZTuiFFbYjuxTlxPAg&s",
+                                    "rating":"3.8",
+                                    "discount_amount":"1,999",
+                                    "off":"10"
+                                },
+                                {
+                                    "id": "oneplus-cable",
+                                    "name": "One Plus",
+                                    "price": 1499.99,
+                                    "description": "Mid-range OnePlus cable with excellent battery life.",
+                                    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvKFnTxnPoUTLHBPDwWcA6oq3csPZazbsYNYa2-Rn1I8Wi8NDrvzmdZ_h8bTB8rGj9a1E&usqp=CAU",
+                                    "rating":"3.8",
+                                    "discount_amount":"1,699",
+                                    "off":"10"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "point&shoot",
+                            "name": "Point & Shoot",
+                            "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/camera-bag/tote/d/t/i/gcra100-cospex-original-imagppk5zjzpychh.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "apple-wire-earphone",
+                                    "name": "Apple",
+                                    "price": 1799.99,
+                                    "description": "Latest Apple earphone with advanced features.",
+                                    "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MMTN2?wid=4000&hei=4000&fmt=jpeg&qlt=95&.v=1473703488187",
+                                    "rating":"3.8",
+                                    "discount_amount":"18,99",
+                                    "off":"10"
+                                },
+                                {
+                                    "id": "oneplus-wire-earphone",
+                                    "name": "One Plus",
+                                    "price": 1499.99,
+                                    "description": "Mid-range OnePlus cable with excellent battery life.",
+                                    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAwZ1WHmsqc6osDfnhZeSfWXH2zGqTP3YE8Q&s",
+                                    "rating":"4.2",
+                                    "discount_amount":"16,99",
+                                    "off":"18"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "instantcameras",
+                            "name": "Instant Cameras",
+                            "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/instant-camera/a/g/i/mini-12-instax-16791388-fujifilm-original-imagzkbphbwcqgyt.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "apple buds",
+                                    "name": "Apple",
+                                    "price": 1899.99,
+                                    "description": "Apple AirPods Pro (2nd Generation) with MagSafe Charging Case (USB-C)",
+                                    "image":"https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/airpods-pro-2-hero-select-202409_FMT_WHH?wid=750&hei=556&fmt=jpeg&qlt=90&.v=1724041668836",
+                                    "rating":"3.8",
+                                    "discount_amount":"1,999",
+                                    "off":"10"
+                                },
+                                {
+                                    "id": "oneplus buds",
+                                    "name": "One Plus",
+                                    "price": 1499.99,
+                                    "description": "OnePlus Nord Buds 3 Pro - OnePlus (India)",
+                                    "image":"https://image01-in.oneplus.net/media/202407/10/ee9d6e311be1a3a33c8f0c33fe16c8fd.png",
+                                    "rating":"3.8",
+                                    "discount_amount":"1,699",
+                                    "off":"20"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "camcorders",
+                            "name": "Camcorders",
+                            "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/camcoder/3/t/a/with-wifi-4k-ultrahd-4k-mytechvision-original-imagzjecgwhtzdap.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "fablue_back_cover_for_realMe_14x 5G",
+                                    "name": "Fablue Back Cover for RealMe 14x 5G",
+                                    "price": 395,
+                                    "description": "Apple AirPods Pro (2nd Generation) with MagSafe Charging Case (USB-C)",
+                                    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/cases-covers/back-cover/7/t/w/fbl-lkw-blk-rlm14x5g-fablue-original-imah7vwbkdrhpfug.jpeg?q=70",
+                                    "rating":"4.1",
+                                    "discount_amount":"1,999",
+                                    "off":"67",
+                                    "extraoff":"6,000",
+                                    "colour":"Black, Rugged Armor",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C",
+                                    "total_stock":"Hurry, Only 5 left!"
+                                },
+                                {
+                                    "id": "colorcase-back-cover-for-samsung-galaxy-s21-ultra",
+                                    "name": "Colorcase Back Cover for Samsung Galaxy S21 Ultra",
+                                    "price": 179,
+                                    "description": "OnePlus Nord Buds 3 Pro - OnePlus (India)",
+                                    "image":"https://rukminim2.flixcart.com/image/612/612/l4n2oi80/cases-covers/back-cover/4/0/x/m-11313-colorcase-original-imagfhuevuezybc9.jpeg?q=70",
+                                    "rating":"4",
+                                    "discount_amount":"999",
+                                    "off":"82",
+                                    "extraoff":"6,000",
+                                    "colour":"Black, Rugged Armor",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C",
+                                    "total_stock":"Hurry, Only 5 left!"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "camera_tripods",
+                            "name": "Camera tripods",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/tripod/tripod/k/j/s/3-in-1-convertible-tripod-with-fill-light-rotating-phone-holder-original-imah223wp9ctmmgr.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "fablue_back_cover_for_realMe_14x 5G",
+                                    "name": "Fablue Back Cover for RealMe 14x 5G",
+                                    "price": 395,
+                                    "description": "Apple AirPods Pro (2nd Generation) with MagSafe Charging Case (USB-C)",
+                                    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/cases-covers/back-cover/7/t/w/fbl-lkw-blk-rlm14x5g-fablue-original-imah7vwbkdrhpfug.jpeg?q=70",
+                                    "rating":"4.1",
+                                    "discount_amount":"1,999",
+                                    "off":"67",
+                                    "extraoff":"6,000",
+                                    "colour":"Black, Rugged Armor",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C",
+                                    "total_stock":"Hurry, Only 5 left!"
+                                },
+                                {
+                                    "id": "colorcase-back-cover-for-samsung-galaxy-s21-ultra",
+                                    "name": "Colorcase Back Cover for Samsung Galaxy S21 Ultra",
+                                    "price": 179,
+                                    "description": "OnePlus Nord Buds 3 Pro - OnePlus (India)",
+                                    "image":"https://rukminim2.flixcart.com/image/612/612/l4n2oi80/cases-covers/back-cover/4/0/x/m-11313-colorcase-original-imagfhuevuezybc9.jpeg?q=70",
+                                    "rating":"4",
+                                    "discount_amount":"999",
+                                    "off":"82",
+                                    "extraoff":"6,000",
+                                    "colour":"Black, Rugged Armor",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C",
+                                    "total_stock":"Hurry, Only 5 left!"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "camera_lenses",
+                            "name": "Camera Lenses",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/l30hmkw0/lens/rf-series/g/z/k/rf-35mm-f1-8-macro-is-stm-canon-original-image8h27cnagsyv.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "fablue_back_cover_for_realMe_14x 5G",
+                                    "name": "Fablue Back Cover for RealMe 14x 5G",
+                                    "price": 395,
+                                    "description": "Apple AirPods Pro (2nd Generation) with MagSafe Charging Case (USB-C)",
+                                    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/cases-covers/back-cover/7/t/w/fbl-lkw-blk-rlm14x5g-fablue-original-imah7vwbkdrhpfug.jpeg?q=70",
+                                    "rating":"4.1",
+                                    "discount_amount":"1,999",
+                                    "off":"67",
+                                    "extraoff":"6,000",
+                                    "colour":"Black, Rugged Armor",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C",
+                                    "total_stock":"Hurry, Only 5 left!"
+                                },
+                                {
+                                    "id": "colorcase-back-cover-for-samsung-galaxy-s21-ultra",
+                                    "name": "Colorcase Back Cover for Samsung Galaxy S21 Ultra",
+                                    "price": 179,
+                                    "description": "OnePlus Nord Buds 3 Pro - OnePlus (India)",
+                                    "image":"https://rukminim2.flixcart.com/image/612/612/l4n2oi80/cases-covers/back-cover/4/0/x/m-11313-colorcase-original-imagfhuevuezybc9.jpeg?q=70",
+                                    "rating":"4",
+                                    "discount_amount":"999",
+                                    "off":"82",
+                                    "extraoff":"6,000",
+                                    "colour":"Black, Rugged Armor",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C",
+                                    "total_stock":"Hurry, Only 5 left!"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "drone",
+                            "name": "Drone",
+                            "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/drone/t/l/5/100-60-2-4k-wifi-dual-cual-camera-for-adults-kids-with-2-original-imahysfgs2yfqam9.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "fablue_back_cover_for_realMe_14x 5G",
+                                    "name": "Fablue Back Cover for RealMe 14x 5G",
+                                    "price": 395,
+                                    "description": "Apple AirPods Pro (2nd Generation) with MagSafe Charging Case (USB-C)",
+                                    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/cases-covers/back-cover/7/t/w/fbl-lkw-blk-rlm14x5g-fablue-original-imah7vwbkdrhpfug.jpeg?q=70",
+                                    "rating":"4.1",
+                                    "discount_amount":"1,999",
+                                    "off":"67",
+                                    "extraoff":"6,000",
+                                    "colour":"Black, Rugged Armor",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C",
+                                    "total_stock":"Hurry, Only 5 left!"
+                                },
+                                {
+                                    "id": "colorcase-back-cover-for-samsung-galaxy-s21-ultra",
+                                    "name": "Colorcase Back Cover for Samsung Galaxy S21 Ultra",
+                                    "price": 179,
+                                    "description": "OnePlus Nord Buds 3 Pro - OnePlus (India)",
+                                    "image":"https://rukminim2.flixcart.com/image/612/612/l4n2oi80/cases-covers/back-cover/4/0/x/m-11313-colorcase-original-imagfhuevuezybc9.jpeg?q=70",
+                                    "rating":"4",
+                                    "discount_amount":"999",
+                                    "off":"82",
+                                    "extraoff":"6,000",
+                                    "colour":"Black, Rugged Armor",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C",
+                                    "total_stock":"Hurry, Only 5 left!"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "flashes",
+                            "name": "Flashes",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/k4ohqq80/flash/flash/a/n/f/godox-godx-tt520ii-flash-with-won-diffuser-original-imafngfjfnhn2qrg.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "fablue_back_cover_for_realMe_14x 5G",
+                                    "name": "Fablue Back Cover for RealMe 14x 5G",
+                                    "price": 395,
+                                    "description": "Apple AirPods Pro (2nd Generation) with MagSafe Charging Case (USB-C)",
+                                    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/cases-covers/back-cover/7/t/w/fbl-lkw-blk-rlm14x5g-fablue-original-imah7vwbkdrhpfug.jpeg?q=70",
+                                    "rating":"4.1",
+                                    "discount_amount":"1,999",
+                                    "off":"67",
+                                    "extraoff":"6,000",
+                                    "colour":"Black, Rugged Armor",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C",
+                                    "total_stock":"Hurry, Only 5 left!"
+                                },
+                                {
+                                    "id": "colorcase-back-cover-for-samsung-galaxy-s21-ultra",
+                                    "name": "Colorcase Back Cover for Samsung Galaxy S21 Ultra",
+                                    "price": 179,
+                                    "description": "OnePlus Nord Buds 3 Pro - OnePlus (India)",
+                                    "image":"https://rukminim2.flixcart.com/image/612/612/l4n2oi80/cases-covers/back-cover/4/0/x/m-11313-colorcase-original-imagfhuevuezybc9.jpeg?q=70",
+                                    "rating":"4",
+                                    "discount_amount":"999",
+                                    "off":"82",
+                                    "extraoff":"6,000",
+                                    "colour":"Black, Rugged Armor",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C",
+                                    "total_stock":"Hurry, Only 5 left!"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "gimbals",
+                            "name": "Gimbals",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/gimbal/y/w/2/black-300-q08-camera-mobile-tripod-with-selfie-stick-with-mobile-original-imagkzgahhgsdgcx.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "fablue_back_cover_for_realMe_14x 5G",
+                                    "name": "Fablue Back Cover for RealMe 14x 5G",
+                                    "price": 395,
+                                    "description": "Apple AirPods Pro (2nd Generation) with MagSafe Charging Case (USB-C)",
+                                    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/cases-covers/back-cover/7/t/w/fbl-lkw-blk-rlm14x5g-fablue-original-imah7vwbkdrhpfug.jpeg?q=70",
+                                    "rating":"4.1",
+                                    "discount_amount":"1,999",
+                                    "off":"67",
+                                    "extraoff":"6,000",
+                                    "colour":"Black, Rugged Armor",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C",
+                                    "total_stock":"Hurry, Only 5 left!"
+                                },
+                                {
+                                    "id": "colorcase-back-cover-for-samsung-galaxy-s21-ultra",
+                                    "name": "Colorcase Back Cover for Samsung Galaxy S21 Ultra",
+                                    "price": 179,
+                                    "description": "OnePlus Nord Buds 3 Pro - OnePlus (India)",
+                                    "image":"https://rukminim2.flixcart.com/image/612/612/l4n2oi80/cases-covers/back-cover/4/0/x/m-11313-colorcase-original-imagfhuevuezybc9.jpeg?q=70",
+                                    "rating":"4",
+                                    "discount_amount":"999",
+                                    "off":"82",
+                                    "extraoff":"6,000",
+                                    "colour":"Black, Rugged Armor",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C",
+                                    "total_stock":"Hurry, Only 5 left!"
+                                }
+                            ]
+                        },
+                        {
+                            "id": "binoculars",
+                            "name": "Binoculars",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/binocular/binoculars/7/g/g/dual-focus-optics-30x60-prism-binocular-monocular-telescope-original-imah9dg3ygnsuu7y.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "fablue_back_cover_for_realMe_14x 5G",
+                                    "name": "Fablue Back Cover for RealMe 14x 5G",
+                                    "price": 395,
+                                    "description": "Apple AirPods Pro (2nd Generation) with MagSafe Charging Case (USB-C)",
+                                    "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/cases-covers/back-cover/7/t/w/fbl-lkw-blk-rlm14x5g-fablue-original-imah7vwbkdrhpfug.jpeg?q=70",
+                                    "rating":"4.1",
+                                    "discount_amount":"1,999",
+                                    "off":"67",
+                                    "extraoff":"6,000",
+                                    "colour":"Black, Rugged Armor",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C",
+                                    "total_stock":"Hurry, Only 5 left!"
+                                },
+                                {
+                                    "id": "colorcase-back-cover-for-samsung-galaxy-s21-ultra",
+                                    "name": "Colorcase Back Cover for Samsung Galaxy S21 Ultra",
+                                    "price": 179,
+                                    "description": "OnePlus Nord Buds 3 Pro - OnePlus (India)",
+                                    "image":"https://rukminim2.flixcart.com/image/612/612/l4n2oi80/cases-covers/back-cover/4/0/x/m-11313-colorcase-original-imagfhuevuezybc9.jpeg?q=70",
+                                    "rating":"4",
+                                    "discount_amount":"999",
+                                    "off":"82",
+                                    "extraoff":"6,000",
+                                    "colour":"Black, Rugged Armor",
+                                    "offer":"Bank Offer5% Unlimited Cashback on Flipkart Axis Bank Credit CardT&C",
+                                    "offer2":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer3":"Bank Offer10% off up to ₹1,000 on HDFC Bank Credit Card EMI Transactions. Min Txn Value: ₹4,990T&C",
+                                    "offer4":"Special PriceGet extra ₹4000 off (price inclusive of cashback/coupon)T&C",
+                                    "total_stock":"Hurry, Only 5 left!"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "computer-pheripherals",
+                    "name": "Computer Pheripherals",
+                    "labelName":"Computer Pheripherals",
+                    "brands": [
+                        {
+                            "id": "printers",
+                            "name": "Printers",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/kwl0akw0/printer/x/q/3/-original-imag989ygsdy6v6x.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "monitors",
+                            "name": "Monitors",
+                            "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/monitor/m/i/f/mon-0080-full-hd-24-2024-mon-0080-frontech-original-imah257drydbzbqj.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "projectors",
+                            "name": "Projectors",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/projector/g/8/o/beem-440-smart-led-projector-with-720p-hd-resolution-12-por-2106-original-imah2kxy3k3qa5aw.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "portable_projectors",
+                            "name": "Portable Projectors",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/portable-projector/p/a/6/led-led-hd-projector-hd-1920-x-1080-bis-certified-hdmi-xelectron-original-imah3j66prvpgggx.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "ink_cartiadges",
+                            "name": "Ink Cartiadges",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/kydb3ww0/inktoner/9/9/z/hp-compatible-285a-toner-risheet-original-imagamcpfqn8zxwd.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "ink_bottle",
+                            "name": "Ink Bottles",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/inktoner/i/r/n/ink-refill-790-series-4cl-asv-original-imah7m5zh4nsgzzz.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "receipt_printers",
+                            "name": "Receipt Printers",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/receipt-printer/b/r/1/80mm-thermal-billing-printer-with-autocutter-monochrome-original-imah94zk4h4vkwf6.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "lamination_machine",
+                            "name": "Lamination Machine",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/lamination-machine/b/z/3/12-59-39-37-lam-0001-frontech-original-imah8ny7zsxqnhyh.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "note_counting_machine",
+                            "name": "Note Counting Machine",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/juvjzbk0/note-counting-machine/p/2/f/fakenote-detector-st-mc01-stok-original-imaegreqykvcyfkz.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "barcode_scanner",
+                            "name": "Barcode Scanner",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/kj7gwi80-0/barcode-scanner/v/e/a/fb1100-laser-wired-fronix-original-imafytpehmwrh7ej.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "currency_detectors",
+                            "name": "Currency Detectors",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/currency-detector/j/l/b/fake-note-detector-mini-jumbo-elcons-original-imah8j8dnzkswzjg.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "laptop&desktop",
+                    "name": "Laptop and Desktop",
+                    "labelName":"Laptop and Desktop",
+                    "brands": [
+                        {
+                            "id": "laptops",
+                            "name": "Laptops",
+                            "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/computer/g/c/y/nu14u3inf56bn-mb-thin-and-light-laptop-ultimus-original-imagrtanznjrgb3u.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "gaming_laptops",
+                            "name": "Gaming Laptops",
+                            "image":"https://rukminim2.flixcart.com/image/312/312/xif0q/computer/i/7/r/an515-45-gaming-laptop-acer-original-imah36w8pc8vywur.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "desktop_pcs",
+                            "name": "Desktop PCs",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/desktop-computer/a/x/c/0-i5-3rd-8gb-ram-256gb-ssd-15-inch-monitor-zebronics-original-imah9hyyhmasgp7y.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "all_in_one_pcs",
+                            "name": "All In One PCs",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/allinone-desktop/y/p/p/-original-imah4djbdfhrhzka.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "mini_pcs",
+                            "name": "Mini PCs",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/mini-pc/z/r/5/refurbished-optiplex-7040-sff-dell-500-original-imah8yq8v7wehp2z.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        },
+                        {
+                            "id": "tower_pcs",
+                            "name": "Tower PCs",
+                            "image":"https://rukminim2.flixcart.com/image/612/612/xif0q/cpu/g/i/l/256-3-pace-0-entwino-original-imah9cn7jf6uvvhq.jpeg?q=70",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "gaming",
+                    "name": "Gaming",
+                    "labelName":"Gaming",
+                    "brands": [
+                        {
+                            "id": 1001,
+                            "name": "Samsung",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "health&personal_care",
+                    "name": "Health & Personal Care",
+                    "labelName":"Health & Personal Care",
+                    "brands": [
+                        {
+                            "id": 1001,
+                            "name": "Samsung",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "mobile_accessory",
+                    "name": "Mobile Accessory",
+                    "labelName":"Mobile Accessory",
+                    "brands": [
+                        {
+                            "id": 1001,
+                            "name": "Samsung",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "powerbank",
+                    "name": "Powerbank",
+                    "labelName":"Powerbank",
+                    "brands": [
+                        {
+                            "id": 1001,
+                            "name": "Samsung",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "smart_home_automation",
+                    "name": "Smart Home Automation",
+                    "labelName":"Smart Home Automation",
+                    "brands": [
+                        {
+                            "id": 1001,
+                            "name": "Samsung",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "smart_wearbless",
+                    "name": "Smart Wearbless",
+                    "labelName":"Smart Wearbless",
+                    "brands": [
+                        {
+                            "id": 1001,
+                            "name": "Samsung",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "storage",
+                    "name": "Storage",
+                    "labelName":"Storage",
+                    "brands": [
+                        {
+                            "id": 1001,
+                            "name": "Samsung",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "tablets",
+                    "name": "Tablets",
+                    "labelName":"Tablets",
+                    "brands": [
+                        {
+                            "id": 1001,
+                            "name": "Samsung",
+                            "products": [
+                                {
+                                    "id": "samsung galaxy13",
+                                    "name": "Samsung Galaxy S23",
+                                    "price": 799.99,
+                                    "description": "Latest Samsung smartphone with advanced features."
+                                },
+                                {
+                                    "id": "samsung galaxy12",
+                                    "name": "Samsung Galaxy A54",
+                                    "price": 499.99,
+                                    "description": "Mid-range Samsung smartphone with excellent battery life."
+                                }
+                            ]
+                        }
+                    ]
+                }
+
+            ]
+        }
+    ]
+}
