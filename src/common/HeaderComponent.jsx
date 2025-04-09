@@ -1,66 +1,97 @@
-import { ChevronDown, ChevronRight, MapPin, ShoppingCart } from 'lucide-react'
-import React, { useEffect, useState } from 'react'
-import { useNavigate } from 'react-router-dom';
+import React, { useEffect, useState } from 'react';
+import {
+  Globe,
+  Home,
+  MonitorSmartphone,
+  Smartphone,
+  Undo2,
+  Redo2,
+  Moon,
+  Sun,
+} from 'lucide-react';
 
-const HeaderComponent = ({sidebarOpen,setSidebarOpen}) => {
-    const [subcategories, setSubcategories] = useState([]);
-const navigate = useNavigate();
+const Header = () => {
+  const [isDark, setIsDark] = useState(false);
+
+  // Check localStorage or system preference on load
   useEffect(() => {
-    fetch("/data.json") // Assuming your JSON file is in the public folder
-      .then((response) => response.json())
-      .then((data) => {
-        // Extract unique subcategories
-        const uniqueSubcategories = Array.from(
-          new Map(
-            data.categories[0].subcategories.map((sub) => [sub.id, sub])
-          ).values()
-        );
-        setSubcategories(uniqueSubcategories);
-      })
-      .catch((error) => console.error("Error fetching data:", error));
+    const root = document.documentElement;
+
+    const stored = localStorage.getItem('theme');
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+    if (stored === 'dark' || (!stored && prefersDark)) {
+      root.classList.add('dark');
+      setIsDark(true);
+    } else {
+      root.classList.remove('dark');
+      setIsDark(false);
+    }
   }, []);
 
+  const toggleDarkMode = () => {
+    const root = document.documentElement;
+    const newTheme = isDark ? 'light' : 'dark';
+
+    root.classList.toggle('dark');
+    localStorage.setItem('theme', newTheme);
+    setIsDark(!isDark);
+  };
+
   return (
-  <header className="bg-white shadow-md p-4">
-    <div className="flex justify-between items-center">
-      {/* Left side */}
-      <div className="flex items-center space-x-4">
-        <button className="md:hidden">
-          {/* {sidebarOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />} */}
-        </button>
-        {/* <img src="/logo.png" alt="Logo" className="h-8" /> */}
-      </div>
+    <div className="flex items-center justify-between px-4 py-2 border-b bg-white dark:bg-gray-900 dark:border-gray-700 transition-colors duration-300">
       
-      {/* Search Bar */}
-      <div className="flex-1 mx-4">
-        <input type="text" placeholder="Search for Products..." className="w-full p-2 border rounded-lg" />
+      {/* LEFT: Store name + Live badge */}
+      <div className="flex items-center space-x-2">
+        <span className="text-sm font-medium text-gray-900 dark:text-white transition-colors">Dawn</span>
+        <span className="flex items-center text-xs text-green-800 bg-green-100 px-2 py-0.5 rounded-full dark:text-green-400 dark:bg-green-900 transition-all">
+          <span className="w-2 h-2 bg-green-500 rounded-full mr-1"></span>
+          Live
+        </span>
       </div>
-      
-      {/* Right Side Buttons */}
-      <div className="flex items-center space-x-4">
-        <button className="flex items-center space-x-2 bg-gray-200 p-2 rounded-lg">
-          <MapPin className="w-5 h-5" />
-          <span>Select Location</span>
-        </button>
-        <button className="bg-black text-white px-4 py-2 rounded-lg">Login / Sign Up</button>
-        <button className="bg-red-500 text-white p-2 rounded-lg">
-          <ShoppingCart className="w-5 h-5" />
-        </button>
-      </div>
-    </div>
 
-    {/* Secondary Navigation Bar */}
-    <div className="flex items-center space-x-2 mt-2 border-t pt-2">
-    {subcategories.map((subcategory) => (
-        <div key={subcategory.id} className="bg-white shadow rounded-full pl-2 pr-2 py-1 border border-gray-200 hover:shadow-md transition">
-      <a className="text-gray-700 hover:text-green-600 cursor-pointer" onClick={() => navigate(`/mobile/${subcategory.id}`)}>{subcategory.labelName}</a>
-          {/* <h2 className="text-xl font-semibold text-gray-800">{subcategory.name}</h2> */}
+      {/* CENTER: Dropdown-like buttons */}
+      <div className="flex items-center space-x-6 text-sm text-gray-700 dark:text-gray-300 transition-colors">
+        <div className="cursor-pointer flex items-center space-x-1 hover:text-black dark:hover:text-white transition-colors">
+          <Globe className="w-4 h-4" />
+          <span>Default</span>
         </div>
-      ))}
-     
-    </div>
-  </header>
-  )
-}
 
-export default HeaderComponent
+        <div className="cursor-pointer flex items-center space-x-1 hover:text-black dark:hover:text-white transition-colors">
+          <Home className="w-4 h-4" />
+          <span>Home page</span>
+        </div>
+      </div>
+
+      {/* RIGHT: Icons + Save + Dark Toggle */}
+      <div className="flex items-center space-x-4">
+        <MonitorSmartphone className="w-5 h-5 text-gray-600 dark:text-gray-300 hover:text-black dark:hover:text-white transition-colors cursor-pointer" />
+        <Smartphone className="w-5 h-5 text-gray-600 dark:text-gray-300 hover:text-black dark:hover:text-white transition-colors cursor-pointer" />
+        <Undo2 className="w-5 h-5 text-gray-600 dark:text-gray-300 hover:text-black dark:hover:text-white transition-colors cursor-pointer" />
+        <Redo2 className="w-5 h-5 text-gray-600 dark:text-gray-300 hover:text-black dark:hover:text-white transition-colors cursor-pointer" />
+
+        <button
+          className="bg-gray-200 text-gray-500 text-sm px-3 py-1 rounded cursor-not-allowed dark:bg-gray-700 dark:text-gray-400 transition-colors"
+          disabled
+        >
+          Save
+        </button>
+
+        {/* Dark Mode Toggle Button */}
+        <div
+          onClick={toggleDarkMode}
+          className="cursor-pointer p-1 rounded hover:bg-gray-100 dark:hover:bg-gray-800 transition-all"
+          title="Toggle Dark Mode"
+        >
+          {isDark ? (
+            <Sun className="w-5 h-5 text-yellow-400" />
+          ) : (
+            <Moon className="w-5 h-5 text-gray-800" />
+          )}
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default Header;
